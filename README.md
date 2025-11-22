@@ -17,13 +17,12 @@ Clasificación de Riesgos: ALTO, MEDIO y BAJO con acciones correspondientes
 
 # 📁 Estructura del Proyecto
 
-Sistema_Experto_Construccion_Urbana/
+Sistema_Experto_Construccion_Urbana
+/
 
-├── app.py
-
-├── requirements.txt
-
-├── README.md
+├── app.py              
+├── requirements.txt    
+├── README.md    
 
 # 🛠️ Tecnologías Utilizadas
 
