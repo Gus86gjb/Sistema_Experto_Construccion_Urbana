@@ -1,5 +1,7 @@
 # 🏗️ Sistema Experto de Evaluación de Riesgo e Impacto Urbano
 
+https://sistemaexpertoconstruccionurbana-6vxdizxecx2muu2j4izd6a.streamlit.app/
+
 ## 📋 Descripción del Proyecto
 Sistema experto desarrollado en Python y Streamlit para la evaluación automatizada de riesgos e impactos urbanos en proyectos de construcción. La aplicación analiza múltiples variables y genera recomendaciones específicas basadas en reglas de conocimiento experto.
 
