@@ -1,9 +1,9 @@
 # 🏗️ Sistema Experto de Evaluación de Riesgo e Impacto Urbano
 
-# 📋 Descripción del Proyecto
+## 📋 Descripción del Proyecto
 Sistema experto desarrollado en Python y Streamlit para la evaluación automatizada de riesgos e impactos urbanos en proyectos de construcción. La aplicación analiza múltiples variables y genera recomendaciones específicas basadas en reglas de conocimiento experto.
 
-# 🎯 Características Principales
+## 🎯 Características Principales
 
 Evaluación Multi-criterio: Analiza tipo de obra, horarios, duración y zona urbana
 
@@ -15,7 +15,7 @@ Interfaz Intuitiva: Diseño user-friendly con Streamlit
 
 Clasificación de Riesgos: ALTO, MEDIO y BAJO con acciones correspondientes
 
-# 📁 Estructura del Proyecto
+## 📁 Estructura del Proyecto
 
 Sistema_Experto_Construccion_Urbana
 /
@@ -24,7 +24,7 @@ Sistema_Experto_Construccion_Urbana
 ├── requirements.txt    
 ├── README.md    
 
-# 🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 
 Python 3.8+
 
@@ -36,7 +36,7 @@ GitHub - Control de versiones y hosting de código
 
 Streamlit Cloud - Deployment y hosting
 
-# 🛠️ Uso
+## 🛠️ Uso
 
 Ingresa los datos del proyecto:
 
@@ -59,7 +59,7 @@ Medidas recomendadas
 Explicaciones técnicas
 
 
-# 🏗️ Reglas Incluidas
+## 🏗️ Reglas Incluidas
 
 R1: Demoliciones nocturnas
 
